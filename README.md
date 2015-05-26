@@ -11,7 +11,7 @@ Install via bower
 
 Require it into your application (after Angular)
 
-```<script src="ng-uri.min.js"></script>```
+```<script src="src/ng-uri.js"></script>```
 
 Add the module as a dependency to your app
 
