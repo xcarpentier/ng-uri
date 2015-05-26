@@ -2318,4 +2318,5 @@
 
         return URI;
     }
+    ngUri.$inject = ["SLD"];
 })();
