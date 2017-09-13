@@ -1,6 +1,8 @@
 ng-uri
 =======
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/xcarpentier/ng-uri.svg)](https://greenkeeper.io/)
+
 An AngularJS Service wrapper for [URI.js](http://medialize.github.io/URI.js/)
 
 
